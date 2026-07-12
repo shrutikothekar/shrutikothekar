@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I'm Shruti A Full Stack Dot.Net Developer
+Hi I'm Shruti A Full Stack Dot.Net Developer.
+.NET Full Stack Developer | C# | ASP.NET Core MVC | Web API | SQL Server | Entity Framework Core | REST APIs | System Integration | Performance Optimization | Problem Solving
 
 
 ## 🌐 Socials:
